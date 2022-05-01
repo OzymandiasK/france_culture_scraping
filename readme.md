@@ -10,3 +10,10 @@ Also, the book could be downloaded automatically and added on my cloud.
 ## Steps
 
 [1] Use the *requests* library to scrape the data for each episode of the show.
+[2] Two ways to go about it.
+[x] Using Dictionaries.
+[] Using DataFrames.
+
+## Bugs
+
+Only one book per episode at the moment due to the dictionaries loops construction.
