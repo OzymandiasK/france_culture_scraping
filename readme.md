@@ -20,4 +20,4 @@ Only one book per episode at the moment due to the dictionaries loops constructi
 
 ## Notes
 
-[https://stackoverflow.com/questions/10715965/create-a-pandas-dataframe-by-appending-one-row-at-a-time](Interesting article regarding performance of constructing DataFrames in different ways (list of dicts vs incrementally building it)).
+[Interesting article regarding performance of constructing DataFrames in different ways (list of dicts vs incrementally building it)](https://stackoverflow.com/questions/10715965/create-a-pandas-dataframe-by-appending-one-row-at-a-time).
