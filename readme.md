@@ -17,3 +17,7 @@ Also, the book could be downloaded automatically and added on my cloud.
 ## Bugs
 
 Only one book per episode at the moment due to the dictionaries loops construction.
+
+## Notes
+
+[https://stackoverflow.com/questions/10715965/create-a-pandas-dataframe-by-appending-one-row-at-a-time](Interesting article regarding performance of constructing DataFrames in different ways (list of dicts vs incrementally building it)).
