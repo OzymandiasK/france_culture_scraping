@@ -16,7 +16,7 @@ Also, the book could be downloaded automatically and added on my cloud.
 
 ## Bugs
 
-Only one book per episode at the moment due to the dictionaries loops construction.
+[x] Only one book per episode at the moment due to the dictionaries loops construction.
 
 ## Notes
 
